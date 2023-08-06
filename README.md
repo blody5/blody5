@@ -19,6 +19,9 @@
 <h3 align="left"> Connect with me: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px"></h3>
 
 
+<a href="https://discord.gg/oouc" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
   
  <a href="https://github.com/blody5" target="_blank">
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=Akash Shrivastava GitHub style="margin-bottom: 5px;" />
