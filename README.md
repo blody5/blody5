@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm B L O D Y</h1>
 <h3 align="center">A passionate web developer from morocco</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/52/6d/20/526d204392b96fa5f1a252a1674a2ee4.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blody5&label=Profile%20views&color=0e75b6&style=flat" alt="blody5" /> </p>
 
 - 🌱 I’m currently learning **python, javascript**
