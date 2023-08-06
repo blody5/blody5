@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c4.wallpaperflare.com/wallpaper/967/89/86/minimalism-code-quote-text-wallpaper-preview.jpg" width="800" height="500">
+  <img src="wall.jpg">
 </p>
 <h1 align="center">Hi 👋, I'm B L O D Y</h1>
 <h3 align="center">A passionate web developer from morocco</h3>
