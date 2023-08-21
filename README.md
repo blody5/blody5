@@ -1,4 +1,4 @@
-**Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm [ B L O D Y ](https://blody5.github.io/)!**
+**Hi there I'm [ B L O D Y ](https://blody5.github.io/)!**
 <p align="center">
   <img src="wall.jpg">
 </p>
