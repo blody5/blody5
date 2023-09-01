@@ -1,6 +1,5 @@
 **Hi there I'm [ B L O D Y ](https://blody5.github.io/)!**
 <p align="center">
-  <img src="wall.jpg">
 </p>
 <h3 align="center">A passionate web developer from morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
