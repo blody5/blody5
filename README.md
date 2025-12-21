@@ -42,7 +42,6 @@
 
 ![blody5's GitHub stats](https://github-readme-stats.vercel.app/api?username=blody5&show_icons=true&theme=neon)
 
-<h3 align="left">Recent Projects 👨‍💻</h3>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=blody5&repo=Portfolio&show_icons=true&theme=neon">
+
 
 Leave a ⭐ from [here](https://github.com/blody5/blody5) if you like 😁
