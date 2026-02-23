@@ -1,75 +1,71 @@
-<div align="center">
-  
-  <h1 align="center">Hi there, I'm <a href="https://blody5.github.io/">B L O D Y</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5865F2&center=true&vCenter=true&width=435&lines=Web+Developer+from+Morocco;Python+%26+JS+Enthusiast;Building+Discord+Bots;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+# 
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=blody5&label=Profile%20views&color=5865F2&style=flat" alt="blody5" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Systems+Architect;Full+Stack+Developer;SaaS+Builder;Cybersecurity+Student" alt="Typing SVG" />
+  <p>
+    <strong>21-year-old Systems Architect based in Morocco.</strong><br />
+    Building scalable architectures and secure systems with a focus on performance and long-term maintainability.
   </p>
-  
-  <p align="center">
-    <a href="https://discord.gg/oouc" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
-    <a href="https://github.com/blody5" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://www.instagram.com/4x___blody/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="mailto:blodygoat5@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-  </p>
+  <img src="https://img.shields.io/badge/Location-Morocco-red?style=flat-square&logo=googlemaps&logoColor=white" alt="Morocco" />
 </div>
 
 ---
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="55%" valign="top">
-      
-<h3>👨‍💻 About Me</h3>
+### Identity
+I am **Mohamed Houmane (BLODY)**, founder of **Dynasty Dev**. At 21, I approach development through the lens of a systems architect, focusing on the underlying structures that allow software to scale and endure. Based in Morocco, my work bridges the gap between complex backend logic and seamless multi-platform experiences.
 
-- 🔭 I’m currently learning **Python & JavaScript**
-- 🛠 All my projects are at **[Blody-Exe](https://blody-exe.w3spaces.com/)**
-- 🤖 Ask me about **Discord Bots (JS/Py)**
-- ⚡ Fun fact: *I'm available to grab a coffee ☕*
+### What I Build
+- **SaaS Platforms** | End-to-end solutions designed for high availability.
+- **Automation Systems** | Optimizing workflows through intelligent, event-driven infrastructure.
+- **Backend Infrastructures** | Robust, scalable APIs and microservices.
+- **Multi-platform Bots** | Coherent automation across Discord, Telegram, and WhatsApp.
+- **Desktop Tools** | High-performance applications built for specific utility.
 
-<br /> 
+### Architecture Philosophy
+- **Scalability** | Systems must grow without friction.
+- **Security-First** | Thinking like an attacker to build as a defender.
+- **Clean Structure** | Code is for humans; logic is for machines.
+- **Maintainability** | Building for the future, not just the present.
 
-<h3>💻 Tech Stack</h3>
+---
+
+### Technical Stack
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,mongo,photoshop,vscode&theme=dark" />
-  </a>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
 </p>
-    </td>
-    <td width="45%" valign="center" align="center">
-      <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="100%" style="border-radius: 10px;" alt="Coding Gif">
-    </td>
-  </tr>
-</table>
+
+### Selected Work
+- **Dynasty** | A unified automation ecosystem designed for scale.
+- **SaaS Dashboards** | Modern interfaces for complex data visualization.
+- **Automation Infrastructure** | Core systems powering high-volume automated tasks.
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+### Current Focus
+- Deepening expertise in **Cybersecurity and Encryption**.
+- Refining **System Design Patterns** for extreme scalability.
+- Building the next generation of **Dynasty SaaS products**.
 
+### GitHub Insights
 <div align="center">
-  <a href="https://github.com/blody5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=blody5&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Blody5's Github Stats" />
-  </a>
-  <br /><br />
-  <a href="https://github.com/blody5">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blody5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=blody5&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blody5&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&stroke=aaaaaa" alt="GitHub Streak" />
+  <br />
+  <img src="https://raw.githubusercontent.com/blody5/blody5/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
-<br />
+---
 
-<div align="center"> 
-  <p>Leave a ⭐ on my projects if you like them! 😁</p>
+<div align="center">
+  <p>
+    <a href="https://github.com/blody5">GitHub</a> 
+    <a href="https://dynastydev.com">Website</a>
+  </p>
 </div>
