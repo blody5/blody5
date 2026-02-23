@@ -54,7 +54,7 @@ I am **Mohamed Houmane (BLODY)**, founder of **Dynasty Dev**. At 21, I approach 
 
 ### GitHub Insights
 <div align="center">
-  <img src="https://blody-stats.vercel.app/api?username=blody5&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" />
+  <img src="https://github-readme-statss-ashen.vercel.app/api?username=blody5&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" />
   <br />
   <img src="https://raw.githubusercontent.com/blody5/blody5/output/github-contribution-grid-snake.svg" />
 </div>
