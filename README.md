@@ -12,7 +12,7 @@
 ---
 
 ### Identity
-I am **Mohamed Houmane (BLODY)**, founder of **Dynasty Dev**. At 21, I approach development through the lens of a systems architect, focusing on the underlying structures that allow software to scale and endure. Based in Morocco, my work bridges the gap between complex backend logic and seamless multi-platform experiences.
+I am **Mohamed Houmane (BLODY)**, founder of **Dynasty Dev**. At 21, I approach development through the lens of a systems architect, focusing on the underlying structures that allow software to scale and endure. My work focuses on designing resilient backend systems and scalable automation architectures that operate reliably across platforms.
 
 ### What I Build
 - **SaaS Platforms** | End-to-end solutions designed for high availability.
@@ -54,18 +54,16 @@ I am **Mohamed Houmane (BLODY)**, founder of **Dynasty Dev**. At 21, I approach 
 
 ### GitHub Insights
 <div align="center">
-  <img src="https://blody-stats.vercel.app/api?username=blody5&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="GitHub Stats" />
+  <img src="https://blody-stats.vercel.app/api?username=blody5&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blody5&theme=dark&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&stroke=aaaaaa" alt="GitHub Streak" />
-  <br />
-  <img src="https://raw.githubusercontent.com/blody5/blody5/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/blody5/blody5/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
 
 <div align="center">
   <p>
-    <a href="https://github.com/blody5">GitHub</a> 
+    <a href="https://github.com/blody5">GitHub</a> ·
     <a href="https://dynastydev.com">Website</a>
   </p>
 </div>
